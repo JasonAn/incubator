@@ -1,6 +1,6 @@
 {
   "name": "Incubator",
   "tagline": "",
-  "body": "### Welcome to GitHub Pages.\r\nIn analyzing reviews on yelp data. I was surprised to find that the length of review has a relation with the review star.\r\n\r\n![plot 1](https://github.com/JasonAn/incubator/blob/master/plot1.png)\r\n![plot 1](images/plot1.png)\r\n",
+  "body": "### Welcome to GitHub Pages.\r\nIn analyzing reviews on yelp data. I was surprised to find that the length of review has a relation with the review star.\r\n\r\n![plot 1](images/plot1.png)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
