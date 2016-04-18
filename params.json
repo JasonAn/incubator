@@ -1,6 +1,6 @@
 {
   "name": "Incubator",
   "tagline": "",
-  "body": "### Welcome to GitHub Pages.\r\nIn analyzing reviews on yelp data. I was surprised to find that the length of review has a relation with the review star.\r\n\r\n![plot 1](images/plot1.png)\r\n![plot 2](images/plot2.png)\r\n\r\n",
+  "body": "### Welcome to GitHub Pages.\r\n\r\nReviews are important feedback business can improve the service quality, other customs can also benefit from them to make choices, especially the detailed reviews.\r\nMy goal is by analyzing the reviews from yelp data set to figure out: \r\n1. What does the frequency of detailed review mean? / When will people more frequently leave long, detailed reviews? \r\n\r\n2. What does the length of detailed review mean? / When people writes a longer reviews than normal, what are their general attitude? Appreciation or criticism?\r\n\r\n\r\nIn analyzing reviews on yelp data. I was surprised to find that \r\n\r\nWhen customer satisfaction is higher than normal (4 stars), the more expensive the food/dinner they take, the more frequently they are willing to leave reviews. people are more willing to share their experience.\r\n![plot 2](images/plot2.png)\r\n\r\nAs the review goes longer, from the analysis, we can find that the customer satisfaction will decrease. Business should pay much attention when they find the long, detailed reviews on their yelp page, they are more likely to find imperfections in their services.\r\n![plot 1](images/plot1.png)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
